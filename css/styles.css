@@ -12,6 +12,16 @@
 	margin-top: 50px;
 }
 
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 600;
+}
+
 h3 {
 	margin-top: 50px;
 }
@@ -60,3 +70,7 @@ a:hover {
 .edition-info p{
 	text-indent:0px;
 	}
+
+.quotes {
+    font-weight: 300;
+}
